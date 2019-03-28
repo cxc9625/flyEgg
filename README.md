@@ -3,4 +3,4 @@
 
 ## 实训作业just for fun
 
-![image]https://github.com/cxc9625/flyEgg/blob/master/Images/bg.png
+![image](https://github.com/cxc9625/flyEgg/blob/master/Images/bg.png)
